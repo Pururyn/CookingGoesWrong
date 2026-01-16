@@ -1,5 +1,12 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
 # Visual Studio 2015 user specific files
 .vs/
+*.VC.db
 
 # Compiled Object files
 *.slo
@@ -72,3 +79,7 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Assets to ignore
+Content/AncientTempleRuins
+Content/__ExternalActors__/AncientTempleRuins
